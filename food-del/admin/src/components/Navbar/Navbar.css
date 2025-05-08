@@ -1,0 +1,15 @@
+.navbar{
+    background-color: tomato; /* Example background color */
+    color: white; /* Example text color */
+    padding: 10px 20px; /* Example padding */
+    font-size: 18px; /* Example font size */
+    font-weight: bold; /* Example font weight */
+    text-transform: uppercase; /* Convert text to uppercase */
+  }
+
+.navbar .logo{
+    width: max(10%,80px);
+}
+.navbar .profile{
+    width: 40px;
+}
