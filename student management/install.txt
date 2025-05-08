@@ -1,0 +1,14 @@
+pip install flash
+pip install Flask-SQLAlchemy
+pip install Flask-Mail
+pip install Flask-Login
+pip install Werkzeug
+pip install mysqlclient
+http://127.0.0.1:5000
+
+pip install virtualenv  current folder
+virtualenv myenv
+
+myenv\Scripts\activate
+
+pip install -requiremnt.txt all
